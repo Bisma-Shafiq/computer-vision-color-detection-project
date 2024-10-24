@@ -1,4 +1,4 @@
-# computer-vision-color-detection-project
+# Computer-vision-color-detection-project
 1- Purpose: The script aims to detect and segment specific colors in an image using OpenCV and Python.
 
 2- Image Stack Functionality: The stackImages function is defined to concatenate multiple images into a single one for visualization purposes.
